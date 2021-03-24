@@ -1,10 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-ローカルリポで変更　　
-new-featureブランチで変更
-no-fast-forwardブランチで変更
-mainブランチで変更　
-Github上(remote repo)で更新
-Localのconflict remoteでも更新
+local repoのnew-feature branchで変更
 
 
